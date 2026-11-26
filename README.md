@@ -1,6 +1,6 @@
 # Jagnyesh Patra
 
-Clinical informatics, moving from product into building. Nine years across providers, payers, PBMs and public health, working with FHIR, HL7 v2, OMOP and Epic data. These days I mostly test whether LLM output holds up against clinical data standards before it reaches a workflow.
+Clinical informatics, moving from product into building. Since 2019 I've worked on healthcare data at providers, a payer and its pharmacy benefit manager, and the CDC, with FHIR, HL7 v2, OMOP and Epic data. These days I mostly test whether LLM output holds up against clinical data standards before it reaches a workflow.
 
 I came up through product: requirements interviews with PIs and clinicians, backlogs, MVP launches. I still start there, and now I write the code and the evals too.
 
